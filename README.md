@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shijie2458
 - 👀 I’m currently working on Computer Vision
-- 🌱 I am currently a graduate student at peotroleum university of China
+- 🌱 I am currently a graduate student at petroleum university of China
 
 
 <!---
